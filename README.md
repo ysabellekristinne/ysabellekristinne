@@ -12,10 +12,12 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  
+  ![snake gif](https://github.com/ysabellekristinne/ysabellekristinne/blob/output/github-contribution-grid-snake.gif)
 </div>
   
    ##
   
-  <div>  
-   ![Snake animation](https://github.com/ysabellekristinne/ysabellekristinne/blob/output/github-contribution-grid-snake.svg)
-  </div>
+<div align="center">  
+  <img align="center" alt="Ysa-pic" height="250" style="border-radius:50px;" src="https://media.discordapp.net/attachments/843112031946670091/907677164852367460/5tjhmt.gif?width=473&height=473">
+</div>
