@@ -16,6 +16,7 @@
   
    ##
   
-  <div>
+  <div style="display: inline_block">  
+  <img align="center" alt="Ysa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/843112031946670091/907677164852367460/5tjhmt.gif?width=473&height=473">
 ![Snake animation](https://github.com/ysabellekristinne/ysabellekristinne/blob/output/github-contribution-grid-snake.svg)
   </div>
