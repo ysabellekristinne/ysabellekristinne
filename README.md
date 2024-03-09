@@ -13,7 +13,6 @@ const Ysabelle = {
     frameworks: ["SASS", "Bootstrap", "ReactJs"],
     skills: ["UI/UX Design"],
     softSkills: ["Creativity", "Organization", "Comunication"],
-    otherSoftwares: ["Adobe Photoshop", "Adobe XD", "Adobe Illustrator" "Blender", "Figma"]
 }
 
 if (you = "Need Developer") {
