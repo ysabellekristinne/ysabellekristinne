@@ -3,7 +3,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=500&size=20&duration=4000&pause=1000&color=C2A3CF&center=true&vCenter=true&width=1100&height=25&lines=Hello+World!+%F0%9F%8C%90" alt="Typing SVG" /></a>
 
 
-<img align='right' width=280 height=300 src='https://i.imgur.com/8pGR5zI.png' />
+<img align='right' width=280 height=280 src='https://i.imgur.com/8pGR5zI.png' />
 
 ```javascript
 const Ysabelle = {
